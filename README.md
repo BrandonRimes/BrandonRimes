@@ -29,6 +29,22 @@ Brandon.Rimes@yahoo.com
 🌿 Gardening  
 🎸 Music  
 
+## Latest Collaborations
+
+### Keys
+
+A digital instrument interface
+
+[Site](https://301keys.netlify.app/)  
+[Repo](https://github.com/KBRAT-301)
+
+### 877-Smash-Now
+
+A Super Smash Bros. league landing page
+
+[Site](https://877-smash-now.netlify.app/)  
+[Repo](https://github.com/carloslopez0250/877-smash-now)
+
 ___
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonRimes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
