@@ -20,13 +20,17 @@ Brandon.Rimes@yahoo.com
 
 ## Other Fields of Experience
 
+:massage: Massage Therapy &nbsp;
 :atom_symbol: Naval Nuclear Engineering (Propulsion)  
-:massage: Massage Therapy  
+
 :satellite: Cable & Satellite Media Service Installation & Repair  
-🍴 Restaurant  
-🛒 Retail  
-👶 Parenting  
-🌿 Gardening  
+
+🍴 Restaurant &nbsp;
+🛒 Retail &nbsp;
+👐 Customer Success
+
+👶 Parenting &nbsp;
+🌿 Gardening &nbsp;
 🎸 Music  
 
 ## Latest Collaborations
