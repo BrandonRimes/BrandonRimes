@@ -49,6 +49,13 @@ A Super Smash Bros. league landing page
 [Site](https://877-smash-now.netlify.app/)  
 [Repo](https://github.com/carloslopez0250/877-smash-now)
 
+### Savor
+
+Catalogue expenses and set savings goals.
+
+[Site](https://black-panther-finance.github.io/webApp/) *(the login is a dummy, you may just click the coin)*   
+[Repo](https://github.com/Black-Panther-Finance/webApp)
+
 ___
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonRimes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
