@@ -36,12 +36,12 @@ Brandon.Rimes@yahoo.com
 
 ## Latest Collaborations
 
-### Keys
+### The Touch of Presence
 
-A digital instrument interface
+The business site of a massage therapist
 
-[Site](https://301keys.netlify.app/)  
-[Repo](https://github.com/KBRAT-301)
+[Site](https://www.thetouchofpresence.com/)
+[Repo](https://github.com/BrandonRimes/touchofpresence)
 
 ### 877-Smash-Now
 
@@ -50,12 +50,12 @@ A Super Smash Bros. league landing page
 [Site](https://877-smash-now.netlify.app/)  
 [Repo](https://github.com/carloslopez0250/877-smash-now)
 
-### Savor
+### Keys
 
-Catalogue expenses and set savings goals.
+A digital instrument interface
 
-[Site](https://black-panther-finance.github.io/webApp/) *(the login is a dummy, you may just click the coin)*   
-[Repo](https://github.com/Black-Panther-Finance/webApp)
+[Site](https://301keys.netlify.app/)  
+[Repo](https://github.com/KBRAT-301)
 
 ___
 
